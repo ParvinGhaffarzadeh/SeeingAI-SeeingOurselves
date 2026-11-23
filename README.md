@@ -84,29 +84,29 @@ The badge artwork is included for this workshop's presentation and documentation
 This repository contains an **educational demonstration**. It is not a validated AI product, and the exercise is not evidence of the fairness or accuracy of real-world image-recognition systems.
 
 
+
 ## Workshop 1 – Feedback Forms
 
-We welcome feedback from pupils and teachers taking part in
-**Seeing AI, Seeing Ourselves – Workshop 1: How Computers See**.
+The following questionnaires are used to gather feedback
+during Workshop 1: How Computers See.
 
-### Student Feedback – Before the Workshop
+### 1. Student Questionnaire – Beginning of the Presentation
 
-A short questionnaire about pupils' existing knowledge, confidence,
-and interest in AI and computing.
+Pupils complete this short questionnaire at the beginning
+of the presentation, before the main activities.
 
-[Complete the Before-Workshop Questionnaire](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUNDNFTVBVVVhGOVBEV0JZQTBMTFNBNU5CWi4u)
+[Complete the Beginning Questionnaire](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUNDNFTVBVVVhGOVBEV0JZQTBMTFNBNU5CWi4u)
 
-### Student Feedback – After the Workshop
+### 2. Student Questionnaire – End of the Presentation
 
-A short questionnaire about pupils' experience, what they learned,
-and their confidence in exploring AI.
+Pupils complete this questionnaire at the end of the
+presentation to share their experience and feedback.
 
-[Complete the After-Workshop Questionnaire](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUMlJCUTVRSjhBWDA3TE1CWFdQUFROQTdEWi4u)
+[Complete the End Questionnaire](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUMlJCUTVRSjhBWDA3TE1CWFdQUFROQTdEWi4u)
 
-### Teacher Feedback
+### 3. Teacher Feedback – After the Workshop
 
-We welcome teachers' views on the workshop activities,
-pupil engagement, and opportunities for future collaboration.
+Teachers are invited to provide feedback on the workshop
+content, delivery, and pupils' engagement.
 
 [Complete the Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUNklZWjIyOUgzVlU5QkpNS1JFMU43OERTRS4u)
-
