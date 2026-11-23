@@ -82,3 +82,31 @@ The badge artwork is included for this workshop's presentation and documentation
 ## Notes
 
 This repository contains an **educational demonstration**. It is not a validated AI product, and the exercise is not evidence of the fairness or accuracy of real-world image-recognition systems.
+
+
+## Workshop 1 – Feedback Forms
+
+We welcome feedback from pupils and teachers taking part in
+**Seeing AI, Seeing Ourselves – Workshop 1: How Computers See**.
+
+### Student Feedback – Before the Workshop
+
+A short questionnaire about pupils' existing knowledge, confidence,
+and interest in AI and computing.
+
+[Complete the Before-Workshop Questionnaire](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUNDNFTVBVVVhGOVBEV0JZQTBMTFNBNU5CWi4u)
+
+### Student Feedback – After the Workshop
+
+A short questionnaire about pupils' experience, what they learned,
+and their confidence in exploring AI.
+
+[Complete the After-Workshop Questionnaire](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUMlJCUTVRSjhBWDA3TE1CWFdQUFROQTdEWi4u)
+
+### Teacher Feedback
+
+We welcome teachers' views on the workshop activities,
+pupil engagement, and opportunities for future collaboration.
+
+[Complete the Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUNklZWjIyOUgzVlU5QkpNS1JFMU43OERTRS4u)
+
