@@ -102,7 +102,7 @@ of the presentation, before the main activities.
 Pupils complete this questionnaire at the end of the
 presentation to share their experience and feedback.
 
-[Complete the End Questionnaire](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUMlJCUTVRSjhBWDA3TE1CWFdQUFROQTdEWi4u)
+[Complete the End Questionnaire](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?subpage=design&token=7de5c6d471534c27930815f48aaf428d&id=l4EKSYN7EE-JuYMYm-ODXkA9jNL4Vy9IrsQnvaSGLdVUMlJCUTVRSjhBWDA3TE1CWFdQUFROQTdEWi4u)
 
 ### 3. Teacher Feedback – After the Workshop
 
